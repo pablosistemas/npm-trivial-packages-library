@@ -43,3 +43,11 @@ exports['is-plain-obj'] = require('is-plain-obj');
 exports['is-obj'] = require('is-obj');
 exports['mixin-object'] = require('mixin-object');
 exports['defaults'] = require('defaults');
+exports['is-subset'] = require('is-subset');
+exports['object.defaults'] = require('object.defaults');
+exports['set-getter'] = require('set-getter');
+exports['object-is'] = require('object-is');
+exports['object.map'] = require('object.map');
+exports['sequencify'] = require('sequencify');
+exports['undefsafe'] = require('undefsafe');
+

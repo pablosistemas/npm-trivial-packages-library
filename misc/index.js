@@ -8,6 +8,10 @@ exports['require-uncached'] = require('require-uncached');
 exports['batch'] = require('batch');
 exports['component-bind'] = require('component-bind');
 exports['component-inherit'] = require('component-inherit');
+exports['custom-event'] = require('custom-event');
+exports['cross-env'] = require('cross-env');
+exports['is-root'] = require('is-root');
+
 
 
 /* ###### SUBFOLDERS ###### */

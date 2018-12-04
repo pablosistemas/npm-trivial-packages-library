@@ -6,3 +6,5 @@ exports['strict-uri-encode'] = require('strict-uri-encode');
 exports['is-absolute-url'] = require('is-absolute-url');
 exports['original'] = require('original');
 exports['url-loader'] = require('url-loader');
+exports['url-join'] = require('url-join');
+exports['is-url'] = require('is-url');

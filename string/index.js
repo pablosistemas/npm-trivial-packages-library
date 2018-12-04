@@ -40,6 +40,19 @@ exports['string-length'] = require('string-length');
 exports['widest-line'] = require('widest-line');
 exports['fancy-log'] = require('fancy-log');
 exports['pretty-bytes'] = require('pretty-bytes');
+exports['detect-newline'] = require('detect-newline');
+exports['left-pad'] = require('left-pad');
+exports['emoji-regex'] = require('emoji-regex');
+exports['charenc'] = require('charenc');
+exports['is-regexp'] = require('is-regexp');
+exports['plur'] = require('plur');
+exports['trim'] = require('trim');
+exports['is-string'] = require('is-string');
+exports['vali-date'] = require('vali-date');
+exports['strip-outer'] = require('strip-outer');
+exports['url-regex'] = require('url-regex');
+exports['trim-repeated'] = require('trim-repeated');
+
 
 
 /* ###### BOM ###### */
@@ -48,3 +61,4 @@ exports['strip-bom-stream'] = require('strip-bom-stream');
 
 /* ###### SEMVER ######*/
 exports['semver-diff'] = require('semver-diff');
+semver-regex

@@ -9,3 +9,8 @@ exports['create-error-class'] = require('create-error-class');
 exports['isomorphic-fetch'] = require('isomorphic-fetch');
 exports['is-redirect'] = require('is-redirect');
 exports['has-cors'] = require('has-cors');
+exports['call-me-maybe'] = require('call-me-maybe');
+exports['caw'] = require('caw');
+exports['get-proxy'] = require('get-proxy');
+exports['is-observable'] = require('is-observable');
+

@@ -8,3 +8,7 @@ exports['log-symbols'] = require('log-symbols');
 exports['is-retry-allowed'] = require('is-retry-allowed');
 exports['cli-boxes'] = require('cli-boxes');
 exports['cli-spinners'] = require('cli-spinners');
+exports['cli-truncate'] = require('cli-truncate');
+exports['log-update'] = require('log-update');
+exports['elegant-spinner'] = require('elegant-spinner');
+

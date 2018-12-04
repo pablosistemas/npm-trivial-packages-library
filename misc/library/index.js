@@ -6,3 +6,5 @@ exports.eslint = require('./eslint');
 exports.jest = require('./jest');
 exports.gulp = require('./gulp');
 exports.ansi = require('./ansi');
+exports.react = require('./react');
+exports.webpack = require('./webpack');

@@ -11,4 +11,5 @@ exports['merge-stream'] = require('merge-stream');
 exports['browser-stdout'] = require('browser-stdout');
 exports['sparkles'] = require('sparkles');
 exports['pause-stream'] = require('pause-stream');
-
+exports['stream-consume'] = require('stream-consume');
+exports['pause'] = require('pause');

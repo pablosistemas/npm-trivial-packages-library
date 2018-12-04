@@ -11,3 +11,5 @@ exports['exit-hook'] = require('exit-hook');
 exports['detect-node'] = require('detect-node');
 exports['callsite'] = require('callsite');
 exports['better-assert'] = require('better-assert');
+exports['global'] = require('global');
+exports['browser-process-hrtime'] = require('browser-process-hrtime');

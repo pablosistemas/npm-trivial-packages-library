@@ -10,3 +10,5 @@ exports.cli = require('./cli');
 exports.stream = require('./stream');
 exports.function = require('./function');
 exports.misc = require('./misc');
+exports.boolean = require('boolean');
+

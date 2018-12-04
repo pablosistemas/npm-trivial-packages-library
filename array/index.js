@@ -25,3 +25,6 @@ exports['array-filter'] = require('array-filter');
 exports['cyclist'] = require('cyclist');
 exports['array-map'] = require('array-map');
 exports['array-reduce'] = require('array-reduce');
+exports['array-each'] = require('array-each');
+exports['expand-braces'] = require('expand-braces');
+exports['multimatch'] = require('multimatch');
