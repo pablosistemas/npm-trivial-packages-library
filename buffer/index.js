@@ -10,3 +10,14 @@ exports['buffer-equal-constant-time'] = require('buffer-equal-constant-time');
 exports['data-uri-to-buffer'] = require('data-uri-to-buffer');
 exports['buffer-equal'] = require('buffer-equal');
 exports['to-buffer'] = require('to-buffer');
+exports['is-gzip'] = require('is-gzip');
+exports['is-zip'] = require('is-zip');
+exports['is-bzip2'] = require('is-bzip2');
+exports['is-tar'] = require('is-tar');
+exports['buffer-to-vinyl'] = require('buffer-to-vinyl');
+exports['archive-type'] = require('archive-type');
+exports['is-png'] = require('is-png');
+exports['is-jpg'] = require('is-jpg');
+exports['is-gif'] = require('is-gif');
+exports['postgres-bytea'] = require('postgres-bytea');
+

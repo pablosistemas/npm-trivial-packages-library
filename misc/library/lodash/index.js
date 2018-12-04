@@ -36,4 +36,15 @@ exports['lodash.throttle'] = require('lodash.throttle');
 exports['lodash.values'] = require('lodash.values');
 exports['lodash._arrayeach'] = require('lodash._arrayeach');
 exports['lodash.noop'] = require('lodash.noop');
+exports['lodash.isnumber'] = require('lodash.isnumber');
+exports['lodash._arraycopy'] = require('lodash._arraycopy');
+exports['lodash.clone'] = require('lodash.clone');
+exports['lodash.isboolean'] = require('lodash.isboolean');
+exports['lodash._isnative'] = require('odash._isnative');
+exports['lodash._shimkeys'] = require('lodash._shimkeys');
+exports['lodash._htmlescapes'] = require('lodash._htmlescapes');
+exports['lodash._reunescapedhtml'] = require('lodash._reunescapedhtml');
+exports['lodash._escapehtmlchar'] = require('lodash._escapehtmlchar');
+exports['lodash._escapestringchar'] = require('lodash._escapestringchar');
+exports['lodash.find'] = require('lodash.find');
 

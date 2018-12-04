@@ -11,4 +11,15 @@ exports['cli-spinners'] = require('cli-spinners');
 exports['cli-truncate'] = require('cli-truncate');
 exports['log-update'] = require('log-update');
 exports['elegant-spinner'] = require('elegant-spinner');
+exports['silent-error'] = require('silent-error');
+exports['os-name'] = require('os-name');
+exports['bin-version-check'] = require('bin-version-check');
+exports['bin-version'] = require('bin-version');
+exports['bin-check'] = require('bin-check');
+exports['exec-buffer'] = require('exec-buffer');
+exports['exec-series'] = require('exec-series');
+exports['flow-bin'] = require('flow-bin');
+exports['imagemin-gifsicle'] = require('imagemin-gifsicle');
+exports['optjs'] = require('optjs');
+
 

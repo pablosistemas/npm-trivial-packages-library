@@ -58,3 +58,9 @@ exports['filenamify'] = require('filenamify');
 exports['filename-reserved-regex'] = require('filename-reserved-regex');
 exports['file-uri-to-path'] = require('file-uri-to-path');
 exports['untildify'] = require('untildify');
+exports['read-chunk'] = require('read-chunk');
+exports['cached-path-relative'] = require('cached-path-relative');
+exports['executable'] = require('executable');
+exports['vinyl-assign'] = require('vinyl-assign');
+exports['merge-source-map'] = require('merge-source-map');
+

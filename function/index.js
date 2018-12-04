@@ -14,4 +14,5 @@ exports['thunkify'] = require('thunkify');
 exports['tryit'] = require('tryit');
 exports['is-function'] = require('is-function');
 exports['chain-function'] = require('chain-function');
+exports['tryor'] = require('tryor');
 

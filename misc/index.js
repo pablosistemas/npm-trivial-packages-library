@@ -30,3 +30,6 @@ exports['json'] = require('./json');
 exports['npm'] = require('./npm');
 exports['xml'] = require('./xml');
 exports['css'] = require('./css');
+exports['svg'] = require('./svg');
+exports['nested-error-stacks'] = require('nested-error-stacks');
+exports['dotenv-expand'] = require('dotenv-expand');

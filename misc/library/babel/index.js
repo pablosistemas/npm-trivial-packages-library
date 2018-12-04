@@ -27,3 +27,11 @@ exports['babel-plugin-syntax-class-constructor-call'] = require('babel-plugin-sy
 exports['babel-plugin-transform-do-expressions'] = require('babel-plugin-transform-do-expressions');
 exports['babel-plugin-syntax-function-bind'] = require('babel-plugin-syntax-function-bind');
 exports['babel-plugin-syntax-do-expressions'] = require('babel-plugin-syntax-do-expressions');
+exports['babel-plugin-transform-remove-console'] = require('babel-plugin-transform-remove-console');
+exports['babel-plugin-transform-minify-booleans'] = require('babel-plugin-transform-minify-booleans');
+exports['babel-plugin-transform-undefined-to-void'] = require('babel-plugin-transform-undefined-to-void');
+exports['babel-plugin-transform-member-expression-literals'] = require('babel-plugin-transform-member-expression-literals');
+exports['babel-plugin-transform-property-literals'] = require('babel-plugin-transform-property-literals');
+exports['babel-plugin-transform-simplify-comparison-operators'] = require('babel-plugin-transform-simplify-comparison-operators');
+exports['babel-plugin-transform-remove-debugger'] = require('babel-plugin-transform-remove-debugger');
+

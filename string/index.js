@@ -52,7 +52,32 @@ exports['vali-date'] = require('vali-date');
 exports['strip-outer'] = require('strip-outer');
 exports['url-regex'] = require('url-regex');
 exports['trim-repeated'] = require('trim-repeated');
+exports['find-versions'] = require('find-versions');
+exports['bin-version-check'] = require('bin-version-check');
+exports['bin-version'] = require('bin-version');
+exports['x-is-string'] = require('x-is-string');
+exports['is-supported-regexp-flag'] = require('is-supported-regexp-flag');
+exports['clone-regexp'] = require('clone-regexp');
+exports['expand-template'] = require('expand-template');
+exports['win-release'] = require('win-release');
+exports['execall'] = require('execall');
+exports['lpad-align'] = require('lpad-align');
+exports['character-entities-html4'] = require('character-entities-html4');
+exports['is-alphanumeric'] = require('is-alphanumeric');
+exports['simple-fmt'] = require('simple-fmt');
+exports['alter'] = require('alter');
+exports['rgb-hex'] = require('rgb-hex');
+exports['uc.micro'] = require('uc.micro');
+exports['unquote'] = require('unquote');
+exports['trim-off-newlines'] = require('trim-off-newlines');
+exports['base64-url'] = require('base64-url');
+exports['is-expression'] = require('is-expression');
 
+
+
+
+/* ###### TIME AND DATE ###### */
+parse-ms
 
 
 /* ###### BOM ###### */
@@ -62,3 +87,4 @@ exports['strip-bom-stream'] = require('strip-bom-stream');
 /* ###### SEMVER ######*/
 exports['semver-diff'] = require('semver-diff');
 semver-regex
+semver-truncate

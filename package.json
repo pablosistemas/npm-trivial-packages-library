@@ -412,6 +412,7 @@
     "yeast": "^0.1.2"
   },
   "devDependencies": {
+    "babel-plugin-transform-minify-booleans": "^6.9.4",
     "mocha": "^5.2.0"
   }
 }

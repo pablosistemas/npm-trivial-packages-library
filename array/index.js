@@ -27,4 +27,7 @@ exports['array-map'] = require('array-map');
 exports['array-reduce'] = require('array-reduce');
 exports['array-each'] = require('array-each');
 exports['expand-braces'] = require('expand-braces');
-exports['multimatch'] = require('multimatch');
+exports['multimatch'] = require('multimatcharray-find');
+exports['array-find'] = require('array-find');
+exports['os-filter-obj'] = require('os-filter-obj');
+

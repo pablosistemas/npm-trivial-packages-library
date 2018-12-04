@@ -50,4 +50,8 @@ exports['object-is'] = require('object-is');
 exports['object.map'] = require('object.map');
 exports['sequencify'] = require('sequencify');
 exports['undefsafe'] = require('undefsafe');
+exports['core-object'] = require('core-object');
+exports['decamelize-keys'] = require('decamelize-keys');
+exports['unist-util-remove-position'] = require('unist-util-remove-position');
+exports['passport-strategy'] = require('passport-strategy');
 

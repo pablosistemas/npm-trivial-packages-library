@@ -8,3 +8,5 @@ exports['original'] = require('original');
 exports['url-loader'] = require('url-loader');
 exports['url-join'] = require('url-join');
 exports['is-url'] = require('is-url');
+exports['github-from-package'] = require('github-from-package');
+
