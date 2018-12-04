@@ -35,3 +35,16 @@ exports['split-string'] = require('split-string');
 exports['trim-right'] = require('trim-right');
 exports['strip-eof'] = require('strip-eof');
 exports['trim-newlines'] = require('trim-newlines');
+exports['reduce-function-call'] = require('reduce-function-call');
+exports['string-length'] = require('string-length');
+exports['widest-line'] = require('widest-line');
+exports['fancy-log'] = require('fancy-log');
+exports['pretty-bytes'] = require('pretty-bytes');
+
+
+/* ###### BOM ###### */
+exports['strip-bom-stream'] = require('strip-bom-stream');
+
+
+/* ###### SEMVER ######*/
+exports['semver-diff'] = require('semver-diff');

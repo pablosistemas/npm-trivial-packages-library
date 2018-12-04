@@ -14,4 +14,14 @@ exports['foreach'] = require('foreach');
 exports['array-find-index'] = require('array-find-index');
 exports['indexof'] = require('indexof');
 exports['arr-union'] = require('arr-union');
-
+exports['flatten'] = require('flatten');
+exports['indexes-of'] = require('indexes-of');
+exports['uniqs'] = require('uniqs');
+exports['array-differ'] = require('array-differ');
+exports['arraybuffer.slice'] = require('arraybuffer.slice');
+exports['array-equal'] = require('array-equal');
+exports['to-array'] = require('to-array');
+exports['array-filter'] = require('array-filter');
+exports['cyclist'] = require('cyclist');
+exports['array-map'] = require('array-map');
+exports['array-reduce'] = require('array-reduce');

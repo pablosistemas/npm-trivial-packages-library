@@ -4,4 +4,4 @@ exports['is-windows'] = require('is-windows');
 exports['npm-run-path'] = require('npm-run-path');
 exports['path-key'] = require('path-key');
 exports['is-ci'] = require('is-ci');
-
+exports['capture-stack-trace'] = require('capture-stack-trace');

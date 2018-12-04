@@ -13,4 +13,12 @@ exports['babel-plugin-syntax-object-rest-spread'] = require('babel-plugin-syntax
 exports['babel-plugin-syntax-trailing-function-commas'] = require('babel-plugin-syntax-trailing-function-commas');
 exports['babel-plugin-transform-exponentiation-operator'] = require('babel-plugin-transform-exponentiation-operator');
 exports['babel-plugin-syntax-exponentiation-operator'] = require('babel-plugin-syntax-exponentiation-operator');
-
+exports['babel-jest'] = require('babel-jest');
+exports['babel-preset-jest'] = require('babel-preset-jest');
+exports['babel-plugin-syntax-class-properties'] = require('babel-plugin-syntax-class-properties');
+exports['babel-plugin-syntax-flow'] = require('babel-plugin-syntax-flow');
+exports['babel-plugin-syntax-jsx'] = require('babel-plugin-syntax-jsx');
+exports['babel-preset-flow'] = require('babel-preset-flow');
+exports['babel-preset-es2015'] = require('babel-preset-es2015');
+exports['babel-plugin-syntax-decorators'] = require('babel-plugin-syntax-decorators');
+exports['babel-plugin-syntax-async-generators'] = require('babel-plugin-syntax-async-generators');

@@ -41,3 +41,5 @@ exports['has'] = require('has');
 exports['defined'] = require('defined');
 exports['is-plain-obj'] = require('is-plain-obj');
 exports['is-obj'] = require('is-obj');
+exports['mixin-object'] = require('mixin-object');
+exports['defaults'] = require('defaults');

@@ -6,7 +6,11 @@ exports['is-date-object'] = require('is-date-object');
 exports['is-resolvable'] = require('is-resolvable');
 exports['require-uncached'] = require('require-uncached');
 exports['batch'] = require('batch');
+exports['component-bind'] = require('component-bind');
+exports['component-inherit'] = require('component-inherit');
 
+
+/* ###### SUBFOLDERS ###### */
 exports['library'] = require('./library');
 exports['url'] = require('./url');
 exports['system'] = require('./system');
@@ -16,3 +20,9 @@ exports['network'] = require('./network');
 exports['json'] = require('./json');
 exports['html'] = require('./html');
 exports['cache'] = require('./cache');
+exports['log'] = require('./log');
+exports['hashing'] = require('./hashing');
+exports['json'] = require('./json');
+exports['npm'] = require('./npm');
+exports['xml'] = require('./xml');
+exports['css'] = require('./css');

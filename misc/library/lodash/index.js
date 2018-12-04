@@ -9,4 +9,14 @@ exports['lodash._reinterpolate'] = require('lodash._reinterpolate');
 exports['lodash.uniq'] = require('lodash.uniq');
 exports['lodash.defaults'] = require('lodash.defaults');
 exports['lodash._basecopy'] = require('lodash._basecopy');
-
+exports['lodash.camelcase'] = require('lodash.camelcase');
+exports['lodash.restparam'] = require('lodash.restparam');
+exports['lodash._root'] = require('lodash._root');
+exports['lodash._baseassign'] = require('lodash._baseassign');
+exports['lodash._basetostring'] = require('lodash._basetostring');
+exports['lodash._basevalues'] = require('lodash._basevalues');
+exports['lodash.pick'] = require('lodash.pick');
+exports['lodash._reescape'] = require('lodash._reescape');
+exports['lodash._reevaluate'] = require('lodash._reevaluate');
+exports['lodash.flatten'] = require('lodash.flatten');
+exports['lodash.isstring'] = require('lodash.isstring');
