@@ -83,5 +83,17 @@ exports['lazy-property'] = require('lazy-property');
 exports['unist-builder'] = require('unist-builder');
 exports['gulp-footer'] = require('gulp-footer');
 exports['toxic'] = require('toxic');
+exports['zip-object'] = require('zip-object');
+exports['fast-json-parse'] = require('fast-json-parse');
+exports['hast-util-whitespace'] = require('hast-util-whitespace');
+exports['deep-freeze'] = require('deep-freeze');
+exports['selectn'] = require('selectn');
+exports['individual'] = require('individual');
+exports['emitter-mixin'] = require('emitter-mixin');
+exports['class-extend'] = require('class-extend');
+exports['isomorphic-form-data'] = require('isomorphic-form-data');
+exports['parse-data-uri'] = require('parse-data-uri');
+exports['deep-freeze-strict'] = require('deep-freeze-strict');
+exports['serialised-error'] = require('serialised-error');
 
 

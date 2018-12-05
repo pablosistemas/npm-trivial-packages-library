@@ -24,5 +24,6 @@ exports['optjs'] = require('optjs');
 exports['editor'] = require('editor');
 exports['ember-cli-test-loader'] = require('ember-cli-test-loader');
 exports['ember-cli-is-package-missing'] = require('ember-cli-is-package-missing');
+exports['arg'] = require('arg');
 
 

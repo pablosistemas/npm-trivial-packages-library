@@ -34,6 +34,9 @@ exports['inline-process-browser'] = require('inline-process-browser');
 exports['arr-exclude'] = require('arr-exclude');
 exports['cordova-create'] = require('cordova-create');
 exports['selenium-server'] = require('selenium-server');
+exports['glob-promise'] = require('glob-promise');
+exports['net'] = require('net');
+// exports['browser-fingerprint'] = require('browser-fingerprint');
 
 
 

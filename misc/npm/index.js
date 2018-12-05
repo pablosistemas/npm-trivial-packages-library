@@ -8,5 +8,7 @@ exports['is-npm'] = require('is-npm');
 exports['npm-package-arg'] = require('npm-package-arg');
 exports['npm-user-validate'] = require('npm-user-validate');
 exports['npm-install-package'] = require('npm-install-package');
+exports['npm-git-info'] = require('npm-git-info');
+
 
 

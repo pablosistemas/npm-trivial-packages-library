@@ -79,5 +79,12 @@ exports['common-path-prefix'] = require('common-path-prefix');
 exports['find-pkg'] = require('find-pkg');
 exports['home-dir'] = require('home-dir');
 exports['find-node-modules'] = require('find-node-modules');
+exports['cachedir'] = require('cachedir');
+exports['app-module-path'] = require('app-module-path');
+exports['seekout'] = require('seekout');
+exports['mkdirp-then'] = require('mkdirp-then');
+exports['git-config-path'] = require('git-config-path');
+exports['cwd'] = require('cwd');
+exports['rootpath'] = require('rootpath');
 
 

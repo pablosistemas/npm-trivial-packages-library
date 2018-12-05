@@ -39,6 +39,10 @@ exports['babel-plugin-transform-es3-property-literals'] = require('babel-plugin-
 exports['babel-preset-es2016'] = require('babel-preset-es2016');
 exports['babel-preset-es2015-node'] = require('babel-preset-es2015-node');
 exports['babel-plugin-array-includes'] = require('babel-plugin-array-includes');
+exports['babel-preset-react-hmre'] = require('babel-preset-react-hmre');
+exports['babel-plugin-react-require'] = require('babel-plugin-react-require');
+exports['babel-plugin-typecheck'] = require('babel-plugin-typecheck');
+exports['babel-preset-node6'] = require('babel-preset-node6');
 
 
 

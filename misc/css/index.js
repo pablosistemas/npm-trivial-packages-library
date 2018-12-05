@@ -13,6 +13,10 @@ exports['css-stringify'] = require('css-stringify');
 exports['postcss-atroot'] = require('postcss-atroot');
 exports['camelcase-css'] = require('camelcase-css');
 exports['clean-css-promise'] = require('clean-css-promise');
+exports['dom-closest'] = require('dom-closest');
+exports['to-string-loader'] = require('to-string-loader');
+exports['css-color-list'] = require('css-color-list');
+exports['prefix-style'] = require('prefix-style');
 
 
 

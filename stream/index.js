@@ -32,6 +32,7 @@ exports['inflation'] = require('inflation');
 exports['co-read'] = require('co-read');
 exports['co-from-stream'] = require('co-from-stream');
 exports['stream-array'] = require('stream-array');
-
+exports['streamifier'] = require('streamifier');
+exports['ast-transform'] = require('ast-transform');
 
 

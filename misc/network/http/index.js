@@ -22,4 +22,6 @@ exports['parse-headers'] = require('parse-headers');
 exports['swagger-methods'] = require('swagger-methods');
 exports['http-assert'] = require('http-assert');
 exports['http-response-object'] = require('http-response-object');
+exports['hapi-cors-headers'] = require('hapi-cors-headers');
+
 

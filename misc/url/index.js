@@ -20,5 +20,8 @@ exports['is-relative-url'] = require('is-relative-url');
 exports['is-ssh'] = require('is-ssh');
 exports['git-up'] = require('git-up');
 exports['github-url-from-git'] = require('github-url-from-git');
+exports['remove-trailing-slash'] = require('remove-trailing-slash');
+exports['remote-origin-url'] = require('remote-origin-url');
+exports['valid-data-url'] = require('valid-data-url');
 
 

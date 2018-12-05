@@ -125,6 +125,30 @@ exports['git-up'] = require('git-up');
 exports['prettysize'] = require('prettysize');
 exports['gulp-footer'] = require('gulp-footer');
 exports['github-url-from-git'] = require('github-url-from-git');
+exports['flatstr'] = require('flatstr');
+exports['remove-trailing-slash'] = require('remove-trailing-slash');
+exports['hex-color-regex'] = require('hex-color-regex');
+exports['rgb-regex'] = require('rgb-regex');
+exports['hsl-regex'] = require('hsl-regex');
+exports['hsla-regex'] = require('hsla-regex');
+exports['btoa-lite'] = require('btoa-lite');
+exports['crypto-token'] = require('crypto-token');
+exports['regexp-quote'] = require('regexp-quote');
+exports['cidr-regex'] = require('cidr-regex');
+exports['lpad'] = require('lpad');
+exports['remote-origin-url'] = require('remote-origin-url');
+exports['ansi-green'] = require('ansi-green');
+exports['boolify'] = require('boolify');
+exports['success-symbol'] = require('success-symbol');
+exports['streamifier'] = require('streamifier');
+exports['to-camel-case'] = require('to-camel-case');
+exports['pad-component'] = require('pad-component');
+exports['utf8-bytes'] = require('utf8-bytes');
+exports['valid-identifier'] = require('valid-identifier');
+exports['valid-data-url'] = require('valid-data-url');
+exports['highlight-es'] = require('highlight-es');
+exports['titleize'] = require('titleize');
+
 
 
 

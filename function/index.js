@@ -33,5 +33,18 @@ exports['object.reduce'] = require('object.reduce');
 exports['observable-to-promise'] = require('observable-to-promise');
 exports['is-arrow-function'] = require('is-arrow-function');
 exports['just-debounce'] = require('just-debounce');
+exports['glob-promise'] = require('glob-promise');
+exports['then-fs'] = require('then-fs');
+exports['mkdirp-then'] = require('mkdirp-then');
+exports['fast-future'] = require('fast-future');
+exports['ticky'] = require('ticky');
+exports['get-params'] = require('get-params');
+exports['delay'] = require('delay');
+exports['ndarray-fill'] = require('ndarray-fill');
+exports['argsarray'] = require('argsarray');
+exports['pouchdb-promise'] = require('pouchdb-promise');
+exports['native-or-bluebird'] = require('native-or-bluebird');
+exports['deep-freeze-strict'] = require('deep-freeze-strict');
+
 
 

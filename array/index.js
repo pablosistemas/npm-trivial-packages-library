@@ -51,5 +51,17 @@ exports['reduce-flatten'] = require('reduce-flatten');
 exports['bs58'] = require('bs58');
 exports['join-component'] = require('join-component');
 exports['reduce'] = require('reduce');
+exports['iota-array'] = require('iota-array');
+exports['zip-object'] = require('zip-object');
+exports['ndarray-pack'] = require('ndarray-pack');
+exports['sort-desc'] = require('sort-desc');
+exports['sort-asc'] = require('sort-asc');
+exports['rgb-regex'] = require('rgb-regex');
+exports['hsl-regex'] = require('hsl-regex');
+exports['hsla-regex'] = require('hsla-regex');
+exports['atoa'] = require('atoa');
+exports['get-params'] = require('get-params');
+exports['ndarray-fill'] = require('ndarray-fill');
+exports['argsarray'] = require('argsarray');
 
 

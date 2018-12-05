@@ -11,6 +11,8 @@ exports['is-in-browser'] = require('is-in-browser');
 exports['junk'] = require('junk');
 exports['can-symlink'] = require('can-symlink');
 exports['require-precompiled'] = require('require-precompiled');
+exports['cachedir'] = require('cachedir');
+exports['user-info'] = require('user-info');
 
 
 

@@ -86,6 +86,13 @@ exports['lodash.isnull'] = require('lodash.isnull');
 exports['lodash.now'] = require('lodash.now');
 exports['lodash._renative'] = require('lodash._renative');
 exports['lodash.clonedeepwith'] = require('lodash.clonedeepwith');
-
+exports['lodash.startcase'] = require('lodash.startcase');
+exports['lodash._maxpoolsize'] = require('lodash._maxpoolsize');
+exports['lodash._arraypool'] = require('lodash._arraypool');
+exports['lodash._releasearray'] = require('lodash._releasearray');
+exports['lodash._getarray'] = require('lodash._getarray');
+exports['lodash.last'] = require('lodash.last');
+exports['lodash._basefindindex'] = require('lodash._basefindindex');
+exports['lodash._basefind'] = require('lodash._basefind');
 
 

@@ -31,6 +31,12 @@ exports['is-type'] = require('is-type');
 exports['process-relative-require'] = require('process-relative-require');
 exports['try-require'] = require('try-require');
 exports['git-repo-version'] = require('git-repo-version');
+exports['node-ensure'] = require('node-ensure');
+exports['package'] = require('package');
+exports['ignore-loader'] = require('ignore-loader');
+exports['node-fingerprint'] = require('node-fingerprint');
+exports['has-require'] = require('has-require');
+
 
 
 
