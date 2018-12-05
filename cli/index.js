@@ -21,5 +21,8 @@ exports['exec-series'] = require('exec-series');
 exports['flow-bin'] = require('flow-bin');
 exports['imagemin-gifsicle'] = require('imagemin-gifsicle');
 exports['optjs'] = require('optjs');
+exports['editor'] = require('editor');
+exports['ember-cli-test-loader'] = require('ember-cli-test-loader');
+exports['ember-cli-is-package-missing'] = require('ember-cli-is-package-missing');
 
 

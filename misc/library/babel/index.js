@@ -34,4 +34,11 @@ exports['babel-plugin-transform-member-expression-literals'] = require('babel-pl
 exports['babel-plugin-transform-property-literals'] = require('babel-plugin-transform-property-literals');
 exports['babel-plugin-transform-simplify-comparison-operators'] = require('babel-plugin-transform-simplify-comparison-operators');
 exports['babel-plugin-transform-remove-debugger'] = require('babel-plugin-transform-remove-debugger');
+exports['babel-plugin-transform-es3-member-expression-literals'] = require('babel-plugin-transform-es3-member-expression-literals');
+exports['babel-plugin-transform-es3-property-literals'] = require('babel-plugin-transform-es3-property-literals');
+exports['babel-preset-es2016'] = require('babel-preset-es2016');
+exports['babel-preset-es2015-node'] = require('babel-preset-es2015-node');
+exports['babel-plugin-array-includes'] = require('babel-plugin-array-includes');
+
+
 

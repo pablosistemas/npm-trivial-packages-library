@@ -63,4 +63,21 @@ exports['cached-path-relative'] = require('cached-path-relative');
 exports['executable'] = require('executable');
 exports['vinyl-assign'] = require('vinyl-assign');
 exports['merge-source-map'] = require('merge-source-map');
+exports['is-text-path'] = require('is-text-path');
+exports['uri-path'] = require('uri-path');
+exports['sanitize-filename'] = require('sanitize-filename');
+exports['ensure-posix-path'] = require('ensure-posix-path');
+exports['absolute-path'] = require('absolute-path');
+exports['caller'] = require('caller');
+exports['npm-cache-filename'] = require('npm-cache-filename');
+exports['node-modules-regexp'] = require('node-modules-regexp');
+exports['modify-filename'] = require('modify-filename');
+exports['resolve-pkg'] = require('resolve-pkg');
+exports['rev-path'] = require('rev-path');
+exports['unique-temp-dir'] = require('unique-temp-dir');
+exports['common-path-prefix'] = require('common-path-prefix');
+exports['find-pkg'] = require('find-pkg');
+exports['home-dir'] = require('home-dir');
+exports['find-node-modules'] = require('find-node-modules');
+
 

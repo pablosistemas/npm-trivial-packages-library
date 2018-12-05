@@ -72,12 +72,61 @@ exports['unquote'] = require('unquote');
 exports['trim-off-newlines'] = require('trim-off-newlines');
 exports['base64-url'] = require('base64-url');
 exports['is-expression'] = require('is-expression');
+exports['regexp-clone'] = require('regexp-clone');
+exports['rndm'] = require('rndm');
+exports['write-json-file'] = require('write-json-file');
+exports['maxmin'] = require('maxmin');
+exports['fast-safe-stringify'] = require('fast-safe-stringify');
+exports['string-format-obj'] = require('string-format-obj');
+exports['string-hash'] = require('string-hash');
+exports['strip-bom-string'] = require('strip-bom-string');
+exports['regex-parser'] = require('regex-parser');
+exports['js-stringify'] = require('js-stringify');
+exports['temp-write'] = require('temp-write');
+exports['string-convert'] = require('string-convert');
+exports['escape-regexp'] = require('escape-regexp');
+exports['string-argv'] = require('string-argv');
+exports['text-hex'] = require('text-hex');
+exports['colorspace'] = require('colorspace');
+exports['is-ip'] = require('is-ip');
+exports['randomstring'] = require('randomstring');
+exports['pipetteur'] = require('pipetteur');
+exports['ansistyles'] = require('ansistyles');
+exports['generic-names'] = require('generic-names');
+exports['email-validator'] = require('email-validator');
+exports['word-wrap'] = require('word-wrap');
+exports['dashify'] = require('dashify');
+exports['to-no-case'] = require('to-no-case');
+exports['to-space-case'] = require('to-space-case');
+exports['pad-right'] = require('pad-right');
+exports['is-git-url'] = require('is-git-url');
+exports['space-separated-tokens'] = require('space-separated-tokens');
+exports['rev-hash'] = require('rev-hash');
+exports['to-single-quotes'] = require('to-single-quotes');
+exports['to-double-quotes'] = require('to-double-quotes');
+exports['escape-regexp-component'] = require('escape-regexp-component');
+exports['is-whitespace'] = require('is-whitespace');
+exports['common-path-prefix'] = require('common-path-prefix');
+exports['clean-base-url'] = require('clean-base-url');
+exports['mdast-util-to-string'] = require('mdast-util-to-string');
+exports['clean-css-promise'] = require('clean-css-promise');
+exports['is-cidr'] = require('is-cidr');
+exports['protocols'] = require('protocols');
+exports['normalize-git-url'] = require('normalize-git-url');
+exports['mdast-util-definitions'] = require('mdast-util-definitions');
+exports['is-relative-url'] = require('is-relative-url');
+exports['kebab-case'] = require('kebab-case');
+exports['is-ssh'] = require('is-ssh');
+exports['bs58'] = require('bs58');
+exports['join-component'] = require('join-component');
+exports['glob-slash'] = require('glob-slash');
+exports['git-repo-version'] = require('git-repo-version');
+exports['git-up'] = require('git-up');
+exports['prettysize'] = require('prettysize');
+exports['gulp-footer'] = require('gulp-footer');
+exports['github-url-from-git'] = require('github-url-from-git');
 
 
-
-
-/* ###### TIME AND DATE ###### */
-parse-ms
 
 
 /* ###### BOM ###### */
@@ -86,5 +135,7 @@ exports['strip-bom-stream'] = require('strip-bom-stream');
 
 /* ###### SEMVER ######*/
 exports['semver-diff'] = require('semver-diff');
-semver-regex
-semver-truncate
+exports['semver-regex'] = require('semver-regex');
+exports['semver-truncate'] = require('semver-truncate');
+exports['semver-compare'] = require('semver-compare');
+exports['semver-greatest-satisfied-range'] = require('semver-greatest-satisfied-range');

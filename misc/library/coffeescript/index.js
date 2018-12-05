@@ -1,3 +1,3 @@
 var exports = module.exports = {};
 
-coffeescript
+exports['coffeescript'] = require('coffeescript');

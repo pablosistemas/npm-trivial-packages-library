@@ -6,5 +6,6 @@ exports['cookie-signature'] = require('cookie-signature');
 exports['html-comment-regex'] = require('html-comment-regex');
 exports['htmlescape'] = require('htmlescape');
 exports['html-tags'] = require('html-tags');
+exports['is-dom'] = require('is-dom');
 
 

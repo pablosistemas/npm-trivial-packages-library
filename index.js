@@ -10,5 +10,8 @@ exports.cli = require('./cli');
 exports.stream = require('./stream');
 exports.function = require('./function');
 exports.misc = require('./misc');
-exports.boolean = require('boolean');
+exports.boolean = require('./boolean');
+exports.native = require('./native');
+exports.date = require('./date');
+
 

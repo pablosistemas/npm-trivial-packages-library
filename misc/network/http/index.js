@@ -13,4 +13,13 @@ exports['call-me-maybe'] = require('call-me-maybe');
 exports['caw'] = require('caw');
 exports['get-proxy'] = require('get-proxy');
 exports['is-observable'] = require('is-observable');
+exports['dev-ip'] = require('dev-ip');
+exports['x-xss-protection'] = require('x-xss-protection');
+exports['dont-sniff-mimetype'] = require('dont-sniff-mimetype');
+exports['ienoopen'] = require('ienoopen');
+exports['hide-powered-by'] = require('hide-powered-by');
+exports['parse-headers'] = require('parse-headers');
+exports['swagger-methods'] = require('swagger-methods');
+exports['http-assert'] = require('http-assert');
+exports['http-response-object'] = require('http-response-object');
 

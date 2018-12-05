@@ -20,4 +20,15 @@ exports['is-png'] = require('is-png');
 exports['is-jpg'] = require('is-jpg');
 exports['is-gif'] = require('is-gif');
 exports['postgres-bytea'] = require('postgres-bytea');
+exports['maxmin'] = require('maxmin');
+exports['temp-write'] = require('temp-write');
+exports['typedarray-to-buffer'] = require('typedarray-to-buffer');
+exports['scmp'] = require('scmp');
+exports['is-cwebp-readable'] = require('is-cwebp-readable');
+exports['buf-compare'] = require('buf-compare');
+exports['rev-hash'] = require('rev-hash');
+exports['vinyl-buffer'] = require('vinyl-buffer');
+exports['bs58'] = require('bs58');
+
+
 

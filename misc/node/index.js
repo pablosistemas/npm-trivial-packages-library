@@ -13,3 +13,24 @@ exports['callsite'] = require('callsite');
 exports['better-assert'] = require('better-assert');
 exports['global'] = require('global');
 exports['browser-process-hrtime'] = require('browser-process-hrtime');
+exports['debug-log'] = require('debug-log');
+exports['debuglog'] = require('debuglog');
+exports['spawn-command'] = require('spawn-command');
+exports['util-extend'] = require('util-extend');
+exports['write-pkg'] = require('write-pkg');
+exports['btoa'] = require('btoa');
+exports['require-relative'] = require('require-relative');
+exports['conventional-changelog'] = require('conventional-changelog');
+exports['node-version'] = require('node-version');
+exports['module-not-found-error'] = require('module-not-found-error');
+exports['optional'] = require('optional');
+exports['lsmod'] = require('lsmod');
+exports['pkg-config'] = require('pkg-config');
+exports['tinycolor'] = require('tinycolor');
+exports['is-type'] = require('is-type');
+exports['process-relative-require'] = require('process-relative-require');
+exports['try-require'] = require('try-require');
+exports['git-repo-version'] = require('git-repo-version');
+
+
+
