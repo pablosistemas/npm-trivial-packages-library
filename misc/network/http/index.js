@@ -23,5 +23,11 @@ exports['swagger-methods'] = require('swagger-methods');
 exports['http-assert'] = require('http-assert');
 exports['http-response-object'] = require('http-response-object');
 exports['hapi-cors-headers'] = require('hapi-cors-headers');
+exports['nerf-dart'] = require('nerf-dart');
+exports['connect-query'] = require('connect-query');
+exports['github-url-from-username-repo'] = require('github-url-from-username-repo');
+exports['join-path'] = require('join-path');
+exports['helmet-crossdomain'] = require('helmet-crossdomain');
+exports['default-user-agent'] = require('default-user-agent');
 
 

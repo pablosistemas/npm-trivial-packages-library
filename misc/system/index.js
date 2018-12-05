@@ -13,6 +13,11 @@ exports['can-symlink'] = require('can-symlink');
 exports['require-precompiled'] = require('require-precompiled');
 exports['cachedir'] = require('cachedir');
 exports['user-info'] = require('user-info');
+exports['stdin'] = require('stdin');
+exports['is-running'] = require('is-running');
+exports['sudo-block'] = require('sudo-block');
+exports['basename'] = require('basename');
+
 
 
 

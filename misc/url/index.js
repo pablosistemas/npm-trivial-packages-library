@@ -23,5 +23,7 @@ exports['github-url-from-git'] = require('github-url-from-git');
 exports['remove-trailing-slash'] = require('remove-trailing-slash');
 exports['remote-origin-url'] = require('remote-origin-url');
 exports['valid-data-url'] = require('valid-data-url');
+exports['nerf-dart'] = require('nerf-dart');
+exports['github-url-from-username-repo'] = require('github-url-from-username-repo');
 
 

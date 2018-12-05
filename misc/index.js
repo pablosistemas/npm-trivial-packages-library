@@ -37,6 +37,9 @@ exports['selenium-server'] = require('selenium-server');
 exports['glob-promise'] = require('glob-promise');
 exports['net'] = require('net');
 // exports['browser-fingerprint'] = require('browser-fingerprint');
+exports['level-packager'] = require('level-packager');
+exports['co-thread'] = require('co-thread');
+
 
 
 
@@ -63,3 +66,4 @@ exports['dotenv-expand'] = require('dotenv-expand');
 exports['object'] = require('./object');
 exports['files'] = require('./files');
 exports['docker'] = require('./docker');
+exports['database'] = require('./database');

@@ -32,6 +32,7 @@ exports['bs58'] = require('bs58');
 exports['buffer-indexof-polyfill'] = require('buffer-indexof-polyfill');
 exports['btoa-lite'] = require('btoa-lite');
 exports['streamifier'] = require('streamifier');
+exports['is-deflate'] = require('is-deflate');
 
 
 

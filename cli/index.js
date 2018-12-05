@@ -25,5 +25,8 @@ exports['editor'] = require('editor');
 exports['ember-cli-test-loader'] = require('ember-cli-test-loader');
 exports['ember-cli-is-package-missing'] = require('ember-cli-is-package-missing');
 exports['arg'] = require('arg');
+// exports['ember-cli-import-polyfill'] = require('ember-cli-import-polyfill');
+exports['shell-escape'] = require('shell-escape');
+exports['shellsubstitute'] = require('shellsubstitute');
 
 

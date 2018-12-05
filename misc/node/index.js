@@ -36,6 +36,16 @@ exports['package'] = require('package');
 exports['ignore-loader'] = require('ignore-loader');
 exports['node-fingerprint'] = require('node-fingerprint');
 exports['has-require'] = require('has-require');
+exports['package-json-versionify'] = require('package-json-versionify');
+exports['require-like'] = require('require-like');
+exports['has-generators'] = require('has-generators');
+exports['replace-requires'] = require('replace-requires');
+exports['load-pkg'] = require('load-pkg');
+exports['exit-code'] = require('exit-code');
+exports['npm-prefix'] = require('npm-prefix');
+exports['rollup-plugin-uglify'] = require('rollup-plugin-uglify');
+exports['browserify-versionify'] = require('browserify-versionify');
+exports['globo'] = require('globo');
 
 
 

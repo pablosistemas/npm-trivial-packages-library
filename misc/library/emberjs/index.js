@@ -9,5 +9,6 @@ exports['ember-cli-path-utils'] = require('ember-cli-path-utils');
 exports['ember-cli-test-info'] = require('ember-cli-test-info');
 exports['ember-cli-valid-component-name'] = require('ember-cli-valid-component-name');
 exports['ember-cli-get-component-path-option'] = require('ember-cli-get-component-path-option');
+// exports['ember-cli-import-polyfill'] = require('ember-cli-import-polyfill');
 
 

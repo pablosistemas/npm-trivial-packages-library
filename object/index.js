@@ -95,5 +95,11 @@ exports['isomorphic-form-data'] = require('isomorphic-form-data');
 exports['parse-data-uri'] = require('parse-data-uri');
 exports['deep-freeze-strict'] = require('deep-freeze-strict');
 exports['serialised-error'] = require('serialised-error');
+exports['obj-extend'] = require('obj-extend');
+exports['parse-author'] = require('parse-author');
+exports['reusify'] = require('reusify');
+exports['deep-strict-equal'] = require('deep-strict-equal');
+exports['accessory'] = require('accessory');
+exports['stringify-clone'] = require('stringify-clone');
 
 

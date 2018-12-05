@@ -94,5 +94,10 @@ exports['lodash._getarray'] = require('lodash._getarray');
 exports['lodash.last'] = require('lodash.last');
 exports['lodash._basefindindex'] = require('lodash._basefindindex');
 exports['lodash._basefind'] = require('lodash._basefind');
+exports['lodash.castarray'] = require('lodash.castarray');
+exports['lodash.zip'] = require('lodash.zip');
+exports['lodash.flowright'] = require('lodash.flowright');
+exports['lodash.max'] = require('lodash.max');
+exports['lodash.isundefined'] = require('lodash.isundefined');
 
 

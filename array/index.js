@@ -63,5 +63,12 @@ exports['atoa'] = require('atoa');
 exports['get-params'] = require('get-params');
 exports['ndarray-fill'] = require('ndarray-fill');
 exports['argsarray'] = require('argsarray');
+exports['split-ca'] = require('split-ca');
+exports['has-glob'] = require('has-glob');
+exports['run-series'] = require('run-series');
+exports['ends-with'] = require('ends-with');
+exports['shell-escape'] = require('shell-escape');
+exports['level-fix-range'] = require('level-fix-range');
+exports['x-is-array'] = require('x-is-array');
 
 

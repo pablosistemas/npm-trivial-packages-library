@@ -86,5 +86,14 @@ exports['mkdirp-then'] = require('mkdirp-then');
 exports['git-config-path'] = require('git-config-path');
 exports['cwd'] = require('cwd');
 exports['rootpath'] = require('rootpath');
+exports['broccoli-unwatched-tree'] = require('broccoli-unwatched-tree');
+exports['file-exists'] = require('file-exists');
+exports['expand-home-dir'] = require('expand-home-dir');
+exports['join-path'] = require('join-path');
+exports['require-like'] = require('require-like');
+exports['recursive-readdir-sync'] = require('recursive-readdir-sync');
+exports['absolute'] = require('absolute');
+exports['root-require'] = require('root-require');
+exports['basename'] = require('basename');
 
 

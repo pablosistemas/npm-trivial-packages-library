@@ -9,5 +9,8 @@ exports['html-tags'] = require('html-tags');
 exports['is-dom'] = require('is-dom');
 exports['pretty'] = require('pretty');
 exports['dom-closest'] = require('dom-closest');
+exports['remark-slug'] = require('remark-slug');
+exports['grunt-contrib-htmlmin'] = require('grunt-contrib-htmlmin');
+exports['html-webpack-template'] = require('html-webpack-template');
 
 

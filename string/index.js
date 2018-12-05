@@ -148,6 +148,23 @@ exports['valid-identifier'] = require('valid-identifier');
 exports['valid-data-url'] = require('valid-data-url');
 exports['highlight-es'] = require('highlight-es');
 exports['titleize'] = require('titleize');
+exports['nerf-dart'] = require('nerf-dart');
+exports['warning-symbol'] = require('warning-symbol');
+exports['info-symbol'] = require('info-symbol');
+exports['strip-color'] = require('strip-color');
+exports['has-glob'] = require('has-glob');
+exports['github-url-from-username-repo'] = require('github-url-from-username-repo');
+exports['parse-author'] = require('parse-author');
+exports['fuzzysearch'] = require('fuzzysearch');
+exports['format-number-with-string'] = require('format-number-with-string');
+exports['ends-with'] = require('ends-with');
+exports['humanize-string'] = require('humanize-string');
+exports['shell-escape'] = require('shell-escape');
+exports['word-count'] = require('word-count');
+exports['transformify'] = require('transformify');
+exports['match-at'] = require('match-at');
+exports['patch-text'] = require('patch-text');
+exports['stringify-clone'] = require('stringify-clone');
 
 
 
@@ -163,3 +180,4 @@ exports['semver-regex'] = require('semver-regex');
 exports['semver-truncate'] = require('semver-truncate');
 exports['semver-compare'] = require('semver-compare');
 exports['semver-greatest-satisfied-range'] = require('semver-greatest-satisfied-range');
+exports['compare-semver'] = require('compare-semver');

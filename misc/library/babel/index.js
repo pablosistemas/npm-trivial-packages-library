@@ -43,6 +43,7 @@ exports['babel-preset-react-hmre'] = require('babel-preset-react-hmre');
 exports['babel-plugin-react-require'] = require('babel-plugin-react-require');
 exports['babel-plugin-typecheck'] = require('babel-plugin-typecheck');
 exports['babel-preset-node6'] = require('babel-preset-node6');
+exports['babel-plugin-transform-inline-environment-variables'] = require('babel-plugin-transform-inline-environment-variables');
 
 
 

@@ -13,5 +13,9 @@ exports['is-empty'] = require('is-empty');
 exports['ignore-loader'] = require('ignore-loader');
 exports['valid-identifier'] = require('valid-identifier');
 exports['has-require'] = require('has-require');
+exports['is-es2016-keyword'] = require('is-es2016-keyword');
+exports['has-generators'] = require('has-generators');
+exports['replace-requires'] = require('replace-requires');
+exports['error-symbol'] = require('error-symbol');
 
 

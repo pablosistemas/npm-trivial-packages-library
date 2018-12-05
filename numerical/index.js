@@ -14,6 +14,8 @@ exports['max-safe-integer'] = require('max-safe-integer');
 exports['prettysize'] = require('prettysize');
 exports['wgs84'] = require('wgs84');
 exports['iota-array'] = require('iota-array');
+exports['format-number-with-string'] = require('format-number-with-string');
+exports['csprng'] = require('csprng');
 
 
 

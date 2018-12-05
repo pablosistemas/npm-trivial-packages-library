@@ -45,6 +45,15 @@ exports['argsarray'] = require('argsarray');
 exports['pouchdb-promise'] = require('pouchdb-promise');
 exports['native-or-bluebird'] = require('native-or-bluebird');
 exports['deep-freeze-strict'] = require('deep-freeze-strict');
+exports['looper'] = require('looper');
+exports['es6-denodeify'] = require('es6-denodeify');
+exports['reusify'] = require('reusify');
+exports['flat-arguments'] = require('flat-arguments');
+exports['run-series'] = require('run-series');
+exports['unyield'] = require('unyield');
+exports['teamwork'] = require('teamwork');
+exports['async.util.noop'] = require('async.util.noop');
+exports['rename-function-calls'] = require('rename-function-calls');
 
 
 

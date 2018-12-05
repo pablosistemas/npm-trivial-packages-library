@@ -34,5 +34,7 @@ exports['co-from-stream'] = require('co-from-stream');
 exports['stream-array'] = require('stream-array');
 exports['streamifier'] = require('streamifier');
 exports['ast-transform'] = require('ast-transform');
+exports['contentstream'] = require('contentstream');
+exports['dev-null'] = require('dev-null');
 
 
