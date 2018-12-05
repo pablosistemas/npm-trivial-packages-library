@@ -64,6 +64,6 @@ exports['svg'] = require('./svg');
 exports['nested-error-stacks'] = require('nested-error-stacks');
 exports['dotenv-expand'] = require('dotenv-expand');
 exports['object'] = require('./object');
-exports['files'] = require('./files');
+exports['file'] = require('./file');
 exports['docker'] = require('./docker');
 exports['database'] = require('./database');
